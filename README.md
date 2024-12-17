@@ -1,1 +1,2 @@
 # D-lactate-microbiota
+This repository contains scripts supporting our study on the therapeutic effects of D-lactate-free probiotics in reducing colitis severity. The study investigates how specific probiotic formulations alleviate DSS-induced colitis through gut microbiota modulation, inflammation reduction, and intestinal barrier restoration. Included scripts facilitate data processing, statistical analysis, and machine learning-based microbiota profiling, enabling in-depth exploration of the microbiota-dependent effects of probiotic treatment.
